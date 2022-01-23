@@ -1,2 +1,1 @@
 Erlone Client 1.8.9 Build 41a349
-discordrp.start();
