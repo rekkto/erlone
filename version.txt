@@ -1,1 +1,1 @@
-Erlone Client 1.8.9 Build 5da8c2
+Erlone Client 1.8.9 Build b8a151
